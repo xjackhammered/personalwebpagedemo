@@ -1,0 +1,26 @@
+#photo{
+    border-width: 2px;
+    border-style: solid;
+    border-color:blue;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: grey;
+}
+.heading{
+    margin: 4px;
+}
+.unordered-list{
+    margin: 4px;
+}
+.ordered-list{
+    margin: 4px;
+}
+.link{
+    margin: 4px;
+}
+.pic{
+    margin: 4px;
+}
